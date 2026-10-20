@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Smith;Gem;;;
+FN:Gem Smith
+TITLE:Driver
+TEL;TYPE=CELL,VOICE:+14803719822
+URL:https://gemrides.me
+NOTE:Text or call to book a ride.
+END:VCARD
